@@ -15,6 +15,10 @@
 
 <hr>
 
-<a href="https://discord.com/users/503215722407657478">
-  <img src="https://lanyard-profile-readme.vercel.app/api/503215722407657478" width="480" height="276" />
+<h5 align="center">
+<a  a href="https://discord.com/users/503215722407657478">
+  <img src="https://lanyard-profile-readme.vercel.app/api/503215722407657478" width="470" height="266" />
 </a>
+</h5>
+
+
