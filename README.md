@@ -21,4 +21,6 @@
 </a>
 </h5>
 
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,js,ts,react,nextjs,html,css,md,sass,postgres,vscode,workers,prisma,linux,figma)](https://skillicons.dev)
+
 
