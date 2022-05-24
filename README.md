@@ -21,8 +21,6 @@
 </a>
 	
 	
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,js,ts,react,nextjs,figma)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,sass,postgres,vscode,workers,prisma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,js,ts,html,css,md,sass,react,nextjs,aws,workers,vscode,prisma,linux)](https://skillicons.dev)
 </h5>
 
